@@ -1,1 +1,9 @@
-# Analisis_Embudo_AppyTest_AB
+## Descripción del Proyecto:
+
+En este proyecto, analizamos el comportamiento de los usuarios en una aplicación de una empresa emergente que vende productos alimenticios. El objetivo es estudiar el embudo de ventas para identificar cómo los usuarios progresan a través de las etapas hasta realizar una compra, así como las etapas en las que ocurren mayores pérdidas. Este análisis permite optimizar las estrategias de conversión.
+
+Adicionalmente, evaluamos un experimento A/A/B para determinar el impacto de un cambio de fuentes en la aplicación. Dos grupos de control utilizaron las fuentes originales, mientras que un grupo de prueba experimentó con un diseño diferente. Este enfoque asegura que los resultados sean fiables al comparar los grupos de control entre sí y contra el grupo de prueba, verificando si el cambio afecta la experiencia del usuario.
+
+El análisis se lleva a cabo utilizando un registro de eventos de usuario. Preparamos los datos corrigiendo valores ausentes, convirtiendo formatos y ajustando el rango temporal para garantizar la validez de los resultados. En el análisis del embudo, calculamos las tasas de conversión entre etapas, identificando en qué punto se pierde la mayor cantidad de usuarios. Finalmente, mediante pruebas estadísticas, comparamos las proporciones de eventos entre los grupos experimentales para determinar diferencias significativas.
+
+Este estudio no solo identifica los cuellos de botella en el embudo de ventas, sino que también evalúa el impacto del diseño en la experiencia del usuario, proporcionando recomendaciones basadas en datos para mejorar la retención y conversión.
